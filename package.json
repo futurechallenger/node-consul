@@ -19,7 +19,8 @@
     "node-uuid": "^1.4.3",
     "should": "^7.0.2",
     "sinon": "^1.14.1",
-    "temp": "^0.8.1"
+    "temp": "^0.8.1",
+    "typescript": "^2.5.2"
   },
   "scripts": {
     "cover": "istanbul cover _mocha -- --recursive && open coverage/lcov-report/index.html",
